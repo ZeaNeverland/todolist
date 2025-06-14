@@ -1,0 +1,2 @@
+const String supabaseUrl = 'https://vhvkezazubghmwotnwcx.supabase.co'; // Ganti dengan punyamu
+const String supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZodmtlemF6dWJnaG13b3Rud2N4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDk5MDIwOTYsImV4cCI6MjA2NTQ3ODA5Nn0.ZU6_F1wrieRl9WBw8SVPdQ2AKLI_C6RsTn-L1p700OY';
